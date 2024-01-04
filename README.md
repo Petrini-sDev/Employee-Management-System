@@ -16,7 +16,7 @@ The Employee Management System is a robust console-based application developed i
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
+   git clone https://github.com/Petrini-sDev/employee-management-system.git
    ```
 
 2. **Build and Run:**
