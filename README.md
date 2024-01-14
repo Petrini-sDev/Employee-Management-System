@@ -22,7 +22,7 @@ The Employee Management System is a robust console-based application developed i
 2. **Build and Run:**
    ```bash
    cd employee-management-system
-   g++ main.cpp Utilities.cpp Employee.cpp
+   g++ main.cpp Utilities.cpp Employee.cpp employee_management_system
    ./employee_management_system
    ```
 
